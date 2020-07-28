@@ -1,0 +1,65 @@
+body {
+  background-color: white;
+}
+
+.firstbox {
+  background-color: blue;
+  height: 500px;
+  background-image: url(../img/IMG_0564.JPG);
+  background-blend-mode: screen;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+nav {
+  position: relative;
+  left: 80%;
+  padding-top: 1% ;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+}
+
+h4 {
+  text-align: center;
+  color: white;
+}
+.Next {
+  color: white;
+  text-align: center;
+  background-color: yellow;
+  padding: 8px 12px;
+  border: 2px yellow;
+  border-radius: 50px;
+  margin-left: 50px;
+}
+
+.secondbox {
+  background-color: red;
+  height: 300px;
+}
+
+.thirdbox {
+  background-color: white;
+  height: 400px;
+}
+
+.fourthbox {
+  background-color: white;
+  height: 200px;
+}
+
+.imagecontainer > img {
+  width: 33.18%;
+  height: 50%;
+}
+
+.fb {
+  display: inline-block;
+}
+
+.fifthbox {
+    height: 300px;
+}
